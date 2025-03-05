@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 from telegram import Bot
 
 # Ganti dengan token & chat ID Telegram
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-CHAT_ID = "YOUR_CHAT_ID"
+TOKEN = "7863085275:AAGRd0CAXEL0sOf6jg85ezy3ROdci-xxqWg"
+CHAT_ID = "982287622"
 
 bot = Bot(token=TOKEN)
 
